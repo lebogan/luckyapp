@@ -877,10 +877,10 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@rails/ujs@^6.1.2":
-  version "6.1.2"
-  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-6.1.2.tgz#ccafb8d8e7ae3bfd21824b018be9f1c417bef5b4"
-  integrity sha512-WEXne46Srl3CegO4ngPSWLL7UYWoL1N78254LSzWJgE2mr7XZlbX8S0vltLHDYj5YRFCYEslsBMPisVb59tpYA==
+"@rails/ujs@^7.0.3":
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-7.0.3.tgz#3bb98db34460ad61ef3cd2684401a444a0347bbb"
+  integrity sha512-u/F5LOFD1255859xEmb+3dHEI9Gnh5zVsjp6Pc++GGoMUei8vfOEPE9pvWuK01PbarIFfZz5D658gFRhs3dVpw==
 
 "@stimulus/core@^2.0.0":
   version "2.0.0"
